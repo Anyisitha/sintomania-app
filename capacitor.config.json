@@ -1,0 +1,11 @@
+{
+  "appId": "com.sintomania.app",
+  "appName": "sintomania",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

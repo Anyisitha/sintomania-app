@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksintomania_frontend=self.webpackChunksintomania_frontend||[]).push([[37],{37:function(n,e,s){s.r(e);var t=s(184);e.default=function(){return(0,t.jsx)("span",{children:"Hola soy el registro!"})}}}]);
+//# sourceMappingURL=37.17914661.chunk.js.map
